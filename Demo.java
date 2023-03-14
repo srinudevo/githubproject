@@ -5,7 +5,7 @@ pyblic static void doprocess(){
 //i want to write my logic here
 
 
-	int i = 15;
+	int i = 30;
 
 }
 }
